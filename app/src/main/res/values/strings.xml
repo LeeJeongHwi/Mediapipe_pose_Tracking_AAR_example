@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="no_camera_access">please grant camera permissions</string>
+</resources>
